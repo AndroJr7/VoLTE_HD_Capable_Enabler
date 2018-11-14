@@ -1,0 +1,7 @@
+id=volhd
+name=VoLTE icon + HD Capable Enabler
+version=v1.0
+versionCode=1
+author=CaptMac San
+description=Systemless replaces your stock SystemUI and ims Files
+minMagisk=17000
