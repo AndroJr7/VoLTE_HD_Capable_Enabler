@@ -35,3 +35,9 @@ Changes VoLTE Icon To OxygenOS's one and Enables HD notification .
 ## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
 Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
 
+## Screenshots :-
+
+![s1](https://i.imgur.com/L7eJBJ4.png)
+![s2](https://i.imgur.com/B9sflx0.png)
+![s2](https://i.imgur.com/A9ewKGl.jpg)
+ 
